@@ -1,10 +1,10 @@
 <h1 align="center">✨ Hey there! I'm <span style="color:#00ADB5">Sudhakar Rajput</span> 👋</h1>
+<!--
 <p align="center">
 💻 Full-Stack Developer | 🚀 Tech Explorer | 🎯 Problem Solver
 </p>
+---!>
 
-
----
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=00ADB5&center=true&vCenter=true&width=450&lines=Full-Stack+Developer;MERN+Stack+Developer;Problem+Solver;Tech+Enthusiast;Building+Innovative+Solutions" alt="Typing SVG" />
 </p>
