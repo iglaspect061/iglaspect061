@@ -69,49 +69,21 @@
 ## 🌍 **Let's Connect!**
 <p align="center">
   <a href="mailto:amitrajput87756@gmail.com">
-    <img src="https://img.icons8.com/fluency/48/gmail.png" alt="Gmail" />
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/sudhakar-rajput-21964b22b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
-    <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://leetcode.com/u/igl_aspect36/">
-    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
   <a href="https://codeforces.com/profile/iglaspect06">
-    <img src="https://img.icons8.com/ios-filled/50/code.png" alt="Codeforces" />
+    <img src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
  
 </p>
 
 ---
-
-
-  
-
----
-💬 **"Building ideas, one commit at a time!"** 🚀
-## 🚀 Let's Connect & Collaborate!
-<p align="center">
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/your_leetcode_profile">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  <a href="https://codeforces.com/profile/your_codeforces_profile">
-    <img src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
-  </a>
-  <a href="https://github.com/iglaspect061">
-    <img src="https://img.shields.io/badge/-GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-💬 **"Turning ideas into reality, one commit at a time!"** 🚀
-
 
 
 ⭐️ **"Code with passion, create with purpose!"**
