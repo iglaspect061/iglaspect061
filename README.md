@@ -85,24 +85,8 @@
 
 ---
 
-## 🚀 Let's Connect & Collaborate!
-<p align="center">
-  <a href="mailto:your.email@example.com" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/gmail.png" alt="Gmail" style="border-radius: 50%; box-shadow: 0 4px 15px rgba(255, 89, 89, 0.8); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-  </a>
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn" style="border-radius: 50%; box-shadow: 0 4px 15px rgba(10, 102, 194, 0.8); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-  </a>
-  <a href="https://leetcode.com/your_leetcode_profile" target="_blank">
-    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode" style="border-radius: 50%; box-shadow: 0 4px 15px rgba(255, 166, 0, 0.8); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-  </a>
-  <a href="https://codeforces.com/profile/your_codeforces_profile" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/code.png" alt="Codeforces" style="border-radius: 50%; box-shadow: 0 4px 15px rgba(88, 86, 214, 0.8); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-  </a>
-  <a href="https://github.com/iglaspect061" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/github.png" alt="GitHub" style="border-radius: 50%; box-shadow: 0 4px 15px rgba(240, 240, 240, 0.8); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-  </a>
-</p>
+
+  
 
 ---
 💬 **"Building ideas, one commit at a time!"** 🚀
