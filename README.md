@@ -12,7 +12,6 @@
 ---
 
 ## 🧑‍💻 **About Me**  
-- 🎯 B.Tech in  IT (Final Year)  
 - 💻 Full-Stack Developer (MERN Stack)  
 - 🛠️ Building innovative solutions like **TranspaDonate**  
 - 🌱 Currently exploring **Blockchain** and **AI-driven Fraud Detection**  
