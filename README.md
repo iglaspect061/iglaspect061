@@ -25,9 +25,9 @@
 ## 🚀 **Tech Stack** 
 <div align="center">
 
-| Frontend | Backend | Database | Tools & Platforms |
-| :-------: | :-------: | :-------: | :-----------------: |
-| <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" height="50"> | <img src="https://skillicons.dev/icons?i=nodejs,express,java,python" height="50"> | <img src="https://skillicons.dev/icons?i=mongodb,mysql" height="50"> | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" height="50"> |
+| Frontend | Backend | Database | Languages | Tools & Platforms |
+| :-------: | :-------: | :-------: | :-------: | :-----------------: |
+| <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" height="50"> | <img src="https://skillicons.dev/icons?i=nodejs,express,java,python" height="50"> | <img src="https://skillicons.dev/icons?i=mongodb,mysql" height="50"> | <img src="https://skillicons.dev/icons?i=c,cpp,js" height="50"> | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" height="50"> |
 
 </div>
 
