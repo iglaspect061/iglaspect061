@@ -1,4 +1,4 @@
-<h1 align="center">✨ Hey there! I'm <span style="color:#00ADB5">Sudhakar Rajput</span> 👋</h1>
+<h1 align="center">👋 Hey there! I'm <span style="color:#00ADB5">Sudhakar Rajput</span> </h1>
 <!--
 <p align="center">
 💻 Full-Stack Developer | 🚀 Tech Explorer | 🎯 Problem Solver
